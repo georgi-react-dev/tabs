@@ -1,0 +1,10 @@
+.duty {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 20px;
+}
+.duty p {
+  opacity: .7;
+}
